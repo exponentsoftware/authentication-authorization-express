@@ -19,7 +19,7 @@ We will be adding roles like:
 ## Releases
 
 The steps to complete this tutorial include:
-1. Set up MongoDB and Node.js
+1. Use the existing project from the last assignment
 2. Learn about JSON web token
 3. Design a user authentication system
 4. Implement the authentication process using Node.js and MongoDB
@@ -27,7 +27,6 @@ The steps to complete this tutorial include:
 
 Additional steps to do include:
 1. Setting up user roles and permissions
-2. Implementing a logout process
-3. Implementing a password reset system
+2. Implementing a logout route
+3. Implementing a password reset route
 4. Adding social media login
-5. Implementing two-factor authentication
